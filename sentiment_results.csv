@@ -1,0 +1,6 @@
+review,sentiment,confidence
+This product is amazing,POSITIVE,0.9999
+I hate this product,NEGATIVE,0.9998
+The quality is okay,POSITIVE,0.9998
+Delivery was very fast,POSITIVE,0.9985
+Poor quality and bad packaging,NEGATIVE,0.9998
